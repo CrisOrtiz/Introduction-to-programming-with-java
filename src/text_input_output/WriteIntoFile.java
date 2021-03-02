@@ -10,7 +10,7 @@ public class WriteIntoFile {
 		// Persistence
 		// Write into file
 
-		File file = new File("E:\\output.txt");
+		File file = new File("B:\\output.txt");
 
 		if(file.exists()) {
 			System.exit(0);

@@ -10,7 +10,7 @@ public class ReadFromFile {
 		// Persistence
 		// Read from a file
 
-		File file = new File("E:\\output.txt");
+		File file = new File("B:\\output.txt");
 		
 		Scanner input = new Scanner(file);
 		
