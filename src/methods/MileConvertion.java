@@ -20,7 +20,7 @@ public class MileConvertion {
 	
 	public static void MilesToKilometers(int number) {
 		for (int i = 1; i <= number; i++) {
-			System.out.println(i + "   " + (i * 6904));
+			System.out.println(i + "   " + (i * 1609));
 		}
 	}
 
